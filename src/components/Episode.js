@@ -12,13 +12,14 @@ const EpisodeStyle = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 24px;
   }
 
   h2 {
     color: #111;
     font-size: 24px;
     line-height: 1.1;
-    margin-bottom: 0;
+    margin: 0;
   }
 `
 
